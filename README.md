@@ -7,8 +7,6 @@
   </a>
 </div>
 
-
-
 <div align="center">
   I am a <b>Senior Full-Stack Software Engineer</b> with over 5 years of experience building scalable production systems. 
   <br>Focused on Cloud-Native architectures, CI/CD automation, and high-performance applications.
@@ -32,25 +30,26 @@
   <h3>☁️ Certifications</h3>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/a0e6f151-3e05-4cfe-9206-4885b93bda42">
+  <a href="https://www.credly.com/badges/a0e6f151-3e05-4cfe-9206-4885b93bda42"       target="_blank"
+  rel="noopener noreferrer">
     <img
       src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png"
       width="130"
       alt="GCP Associate Cloud Engineer"
     />
   </a>
-
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.credly.com/badges/e555382a-72fc-40f2-bf0b-6c38fd311db2">
-    <img
+<a href="https://www.credly.com/badges/e555382a-72fc-40f2-bf0b-6c38fd311db2"  target="_blank"
+      rel="noopener noreferrer">
+<img
       src="https://images.credly.com/images/275e69a5-33a8-4d9c-bad4-2bdc0dfb7d40/image.png"
       width="130"
       alt="GCP Professional Data Engineer"
     />
-  </a>
-</p>
+</a>
 
+</p>
 
 </div>
 
@@ -60,8 +59,6 @@
 </div>
 
 ---
-
-
 
 <div align="center">
   <h3>📫 Let's Connect</h3>
