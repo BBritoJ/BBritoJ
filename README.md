@@ -38,6 +38,7 @@
       alt="GCP Associate Cloud Engineer"
     />
   </a>
+
   &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.credly.com/badges/e555382a-72fc-40f2-bf0b-6c38fd311db2"  target="_blank"
