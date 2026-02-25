@@ -1,6 +1,9 @@
 <div align="center">
   <a href="https://github.com/brunobritopsn">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=202020&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi!+I'm+Bruno+Brito;Senior+Full+Stack+Engineer;GCP+Cloud+Specialist" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E5E7EB&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi!+I'm+Bruno+Brito;Senior+Full+Stack+Engineer;GCP+Cloud+Specialist"
+      alt="Typing SVG"
+    />
   </a>
 </div>
 
